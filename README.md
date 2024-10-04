@@ -37,10 +37,6 @@ A simple scientific calculator application built with Python and customtkinter.
 * Logarithm (log)
 * Power (^)
 
-## License
-
-This application is licensed under the MIT License.
-
 ## Contributing
 
 Contributions are welcome! If you'd like to contribute to this project, please fork the repository and submit a pull request.
